@@ -52,3 +52,29 @@ export default tseslint.config({
   },
 })
 ```
+# 📌 To-Do List App
+
+Uma aplicação web simples de lista de tarefas (To-Do List) desenvolvida com foco na praticidade e organização do usuário.
+
+## 🚀 Objetivo
+
+Criar uma aplicação funcional que permita aos usuários gerenciar suas tarefas diárias de forma intuitiva e eficiente.
+
+## ✨ Funcionalidades
+
+- ✅ Adicionar novas tarefas (campo de input + botão).
+- ✅ Listar tarefas com a opção de marcar como concluídas (estilo riscado).
+- ✅ Excluir tarefas individualmente.
+- ✅ Filtrar tarefas por status: "Todas", "Ativas" e "Concluídas" (botões).
+
+## 🎯 Funcionalidades Opcionais (Bônus)
+
+- 🔹 Persistência dos dados no localStorage para manter as tarefas salvas mesmo após recarregar a página.
+- 🔹 Animações ao adicionar/remover itens para melhorar a experiência do usuário.
+- 🔹 Testes simples utilizando Jest e React Testing Library.
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5, CSS3 e JavaScript
+- React.js (caso utilize)
+- Jest + React Testing Library (para testes, se aplicável)
